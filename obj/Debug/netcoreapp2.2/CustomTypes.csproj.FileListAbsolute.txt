@@ -1,0 +1,11 @@
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/bin/Debug/netcoreapp2.2/CustomTypes.deps.json
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/bin/Debug/netcoreapp2.2/CustomTypes.runtimeconfig.json
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/bin/Debug/netcoreapp2.2/CustomTypes.runtimeconfig.dev.json
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/bin/Debug/netcoreapp2.2/CustomTypes.dll
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/bin/Debug/netcoreapp2.2/CustomTypes.pdb
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/obj/Debug/netcoreapp2.2/CustomTypes.csprojAssemblyReference.cache
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/obj/Debug/netcoreapp2.2/CustomTypes.csproj.CoreCompileInputs.cache
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/obj/Debug/netcoreapp2.2/CustomTypes.AssemblyInfoInputs.cache
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/obj/Debug/netcoreapp2.2/CustomTypes.AssemblyInfo.cs
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/obj/Debug/netcoreapp2.2/CustomTypes.dll
+/Users/sambritt/workspace/csharp/exercises/CustomTypes/obj/Debug/netcoreapp2.2/CustomTypes.pdb
